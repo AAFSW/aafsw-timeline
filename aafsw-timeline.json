@@ -31,7 +31,8 @@
             "media": {
                 "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/05/1960_002a_HousingDeskAd.png",
                 "caption": "October 1960 - Housing Desk Ad and member news",
-                "credit": "<a href='http://www.aafsw.org'>AAFSW</a>"
+                "credit": "<a href='http://www.aafsw.org'>AAFSW</a>",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/05/1960_002a_HousingDeskAd.png"
             },
             "start_date": {
                 "month": "9",
