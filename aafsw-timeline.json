@@ -3,7 +3,8 @@
         "media": {
             "url": "https://flic.kr/p/Dtj6dx",
             "caption": "U.S. Flag Flutters Outside State Department Before Secretary Kerry Departs Washington for Canada by U.S. Department of State, on Flickr",
-            "credit": "flickr/<a href=\"https://flic.kr/p/Dtj6dx\">Dtj6dx</a>"
+            "credit": "flickr/<a href=\"https://flic.kr/p/Dtj6dx\">Dtj6dx</a>",
+            "thumbnail": "https://flic.kr/p/Dtj6dx"
         },
         "text": {
             "headline": "AAFSW Historical Timeline",
@@ -15,7 +16,8 @@
             "media": {
                 "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/05/1960_001_ForeignServiceWomensAssociation.png",
                 "caption": "Excerpt of article published in the Foreign Service Journal, August 1960.",
-                "credit": "AFSA"
+                "credit": "AFSA",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/05/1960_001_ForeignServiceWomensAssociation.png"
             },
             "start_date": {
                 "month": "3",
@@ -26,7 +28,7 @@
                 "text": "Initially called the “Foreign Service Women’s Association,” the Association of American Foreign Service Women was founded in 1960 in response to a discussion among wives who felt that their needs and those of their families were not adequately understood by important decision makers. June Byrne Spencer suggested the creation of an organization, removed from considerations of rank, which would represent families at every level. It was clear that women and families in the Foreign Service community needed a voice."
             },
             "background": {
-                "color": "lightcyan"
+                "color": "papayawhip"
             }    
         },
         {
