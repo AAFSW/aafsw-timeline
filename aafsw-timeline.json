@@ -64,6 +64,26 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/1960/christmas-bazaar-and-first-scholarship/\">Christmas Bazaar and First Scholarship</a>",
                 "text": "<p>The AAFSW began its collaboration with AFSA and their existing scholarship program.  AFSA supported AAFSW’s desire to fund a scholarship for Foreign Service children and indicated that AFSA would name a scholarship for AAFSW.  The AAFSW Christmas Bazaar was the organization’s main fundraising event for the scholarship fund in 1960.  AAFSW still continues today to fund scholarships for Foreign Service children.</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/06/1961_S004_TrainingForSpouses.png",
+                "caption": "Excerpt of the scholarship award",
+                "credit": "<a href='http://www.aafsw.org'>AAFSW</a>",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/06/1961_S004_TrainingForSpouses.png"
+            },
+            "start_date": {
+                "month": "1",
+                "year": "1961"
+            },
+            "end_date": {
+                "month": "12",
+                "year": "1961"
+            },
+            "text": {
+                "headline": "Training for Foreign Service Spouses",
+                "text": "<p>Prior to 1960, training at FSI for Foreign Service wives was provided on a “space available” basis.  There was also a seminar for wives which focused heavily on protocol. However, during congressional hearings in 1960, Congressman John Rooney (D-NY) declared that training spouses was a waste of taxpayers’ money and effectively canceled FSI services for spouses.  However, AAFSW did not agree and lobbied Congress and the Department of State to reinstate funding for training specific to Foreign Service wives.  In 1962, Congress agreed to fund the training through the Mutual Education and Cultural Exchange Act. This reactivated the wives’ course at FSI.  In November 1962, FSI offered a pilot two-week course for wives called “Overseas Assignment.”</p>"
+            }
         }
     ]
 }
