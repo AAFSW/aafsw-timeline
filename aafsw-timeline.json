@@ -128,6 +128,28 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/1963/showcase-of-american-women-around-the-world-exhibit/\">Showcase of American Women Around the World Exhibit</a>",
                 "text": "<p>Secretary of State Dean Rusk opened this exhibit, created by AAFSW, in the Department of State Exhibit Hall on October 16, 1963. The Secretary stated \"In no job is the wife more essentially involved than in the diplomatic service…they are weaving strands of understanding all over the world.\"  President John F. Kennedy also sent a telegram to AAFSW congratulating the organization for the exhibit and its message. This exhibit provided a vivid demonstration of the many ways in which American women use their skills and talents in the service of their country.  The exhibit presented a multitude of volunteer projects, educational programs and cultural activities by groups and individuals, in the form of stories and pictures from posts around the world.</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/07/S007_01_1972-Directive.jpg",
+                "caption": "1972 Directive",
+                "credit": "<a href='http://www.aafsw.org'>AAFSW</a>",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/07/S007_01_1972-Directive.jpg"
+            },
+            "start_date": {
+                "month": "01",
+                "day":"22",
+                "year": "1972"
+            },
+            "end_date": {
+                "month": "01",
+                "day":"22",
+                "year": "1972"
+            },
+            "text": {
+                "headline": "1972 Directive",
+                "text": "<p>The William  Macomber '1972 Directive' opened the door to significant change. Two paragraphs, #1  and #5, were particularly influential. #1 stated that since wives were not USG employees, they could no longer be ordered to perform tasks for the Government.  #5 directed that wives could no longer be mentioned in employee evaluations. The result was that wives began to talk about working, since their time was now their own. Furthermore, they dared to speak freely about concerns for themselves and their children, since they were no longer being evaluated. AAFSW was not involved in the creation of this directive, but it proved to be a catalyst for future AAFSW initiatives.</p>"
+            }
         }
     ]
 }
