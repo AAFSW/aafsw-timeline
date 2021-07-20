@@ -150,6 +150,27 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/1972/1972-directive/\">1972 Directive</a>",
                 "text": "<p>The William  Macomber '1972 Directive' opened the door to significant change. Two paragraphs, #1  and #5, were particularly influential. #1 stated that since wives were not USG employees, they could no longer be ordered to perform tasks for the Government.  #5 directed that wives could no longer be mentioned in employee evaluations. The result was that wives began to talk about working, since their time was now their own. Furthermore, they dared to speak freely about concerns for themselves and their children, since they were no longer being evaluated. AAFSW was not involved in the creation of this directive, but it proved to be a catalyst for future AAFSW initiatives.</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/07/S008_Title_1973_FSEC.png",
+                "caption": "Education and Counseling Center",
+                "credit": "<a href='http://www.aafsw.org'>AAFSW</a>",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/07/S008_Title_1973_FSEC.png"
+            },
+            "start_date": {
+                "month": "04",
+                "day":"22",
+                "year": "1973"
+            },
+            "end_date": {
+                "month": "01",
+                "year": "1979"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/1973/education-and-counseling-center/\">Education and Counseling Center</a>",
+                "text": "<p>Up to the 1970s, no central counseling center existed where parents and children worldwide could turn for continuity of concern, support, assessment and planning, regardless of their post of assignment.  The AAFSW board voted to provide an initial grant of $8000, and AAFSW joined with AFSA to establish the Foreign Service Education and Counseling Center (FSECC). The center provided help selecting the right school for children of families returning home, information on testing services, and counseling for children or families facing re-entry problems or emotional issues. This service continued until it became part of the FLO in 1979.</p>"
+            }
         }
     ]
 }
