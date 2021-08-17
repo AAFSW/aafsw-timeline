@@ -355,6 +355,27 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/1986/foreign-service-spouse-oral-history-program/\">Foreign Service Spouse Oral History Program</a>",
                 "text": "<p>The AAFSW <a href=\"https://www.aafsw.org/oral-history-project/\">Oral History</a> program began to capture for the historical record the experiences of Foreign Service spouses during the 20th century. The changes they witnessed were enormous; for instance, getting to post could take a month in some cases. The AAFSW worked with the Association for Diplomatic Studies and Training (ADST) to include spouse interviews to be distributed electronically worldwide as the Foreign Service Spouse Series of the <a href=\"https://adst.org/oral-history/\">ADST Oral History Collection</a>.</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/08/fsyf-logo.png",
+                "caption": "Foreign Service Youth Foundation logo",
+                "credit": "Photo credit: FSYF.org",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/08/fsyf-logo.png"
+            },
+            "start_date": {
+                "month": "02",
+                "year": "1989"
+            },
+            "end_date": {
+                "month": "06",
+                "day": "5",
+                "year": "1989"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/1989/foreign-service-youth-foundation-established/\">Foreign Service Youth Foundation Established</a>",
+                "text": "<p>From its early years, AAFSW provided opportunities for Foreign Service children to socialize, ranging from dances to picnics and camping trips.  In 1983, Around the World in a Lifetime (AWAL) was formed. This group was established by teens and their parents to assist young people with reentry or to prepare them for an overseas assignment. In 1989, AAFSW joined with the FLO and others to incorporate the Foreign Service Youth Foundation as the sponsoring body for AWAL. The Foundation also now supports a group for younger children. Visit <a href=\"https://www.fsyf.org/\">www.fsyf.org</a> for more information.</p>"
+            }
         }
     ]
 }
