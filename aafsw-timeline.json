@@ -398,6 +398,28 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/1990/aafsw-30th-anniversary/\">AAFSW 30th Anniversary</a>",
                 "text": "<p>On October 9, 1990, AAFSW held a grand reception to celebrate its 30th anniversary. Keynote speakers included former Secretary of State William Rogers and Mrs. Adele Rogers; former Secretary of State Cyrus Vance and Mrs. Gaye Vance;  Deputy Secretary of State Lawrence Eagleburger and Director General Edward Perkins.  Over 200 members and guests attended, including eight former AAFSW Presidents, and some 50 current or former Board members, as well as 38 representatives and senators from Congress.  There was much to celebrate in the AAFSW’s achievements of 30 years, which were documented in displays of memorabilia, historical records and albums and highlighted in the guest speakers’ remarks. The event truly reflected the motto chosen for AAFSW’s 30th anniversary: 'Growth through Unity and Participation.'</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/08/S020_00_title-image.png",
+                "caption": "AAFSW Newsletter - January 1991",
+                "credit": "Photo credit: AAFSW",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/08/S020_00_title-image.png"
+            },
+            "start_date": {
+                "month": "10",
+                "day": "16",
+                "year": "1990"
+            },
+            "end_date": {
+                "month": "05",
+                "day": "03",
+                "year": "1991"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/1990/secretary-of-state-award-for-outstanding-volunteerism-abroad-sosa-established/\">Secretary of State Award for Outstanding Voluteerism Abroad (SOSA) established</a>",
+                "text": "<p>In 1990, with the direct support and encouragement of then Secretary of State James Baker and his wife Susan Baker, the annual Secretary of State Award for Outstanding Volunteerism Abroad was established. The award, administered by AAFSW, recognizes the volunteer efforts of Foreign Service family members and employees overseas with a monetary award and a certificate signed by the Secretary of State. Since 1990, more than 120 individuals have received the SOSA award from over 130 missions.</p>"
+            }
         }
     ]
 }
