@@ -458,7 +458,27 @@
             },
             "text": {
                 "headline": "<a href=\"https://timeline.aafsw.org/1998/aafsw-launches-livelines/\">AAFSW Launches Livelines</a>",
-                "text": "<p>Of particular note is <a href=\"https://www.aafsw.org/our-resources/\">AAFSW's Livelines</a>, an email-based discussion group for people in the Foreign Service or those about to enter. The group, which still exists today with thousands of members, has proven enormously successful. Topics discussed have included schooling and housing issues, specific regulations, evacuations and much more. Livelines is a true forum for mutual assistance; there is always someone out there who has the information someone else needs.  <a href=\"https://www.aafsw.org/our-resources/\">Visit AASFW's page about Our Resources</a> for more information.</p>"
+                "text": "<p>Of particular note is <a href=\"https://www.aafsw.org/our-resources/\" target=\"_blank\">AAFSW's Livelines</a>, an email-based discussion group for people in the Foreign Service or those about to enter. The group, which still exists today with thousands of members, has proven enormously successful. Topics discussed have included schooling and housing issues, specific regulations, evacuations and much more. Livelines is a true forum for mutual assistance; there is always someone out there who has the information someone else needs.  <a href=\"https://www.aafsw.org/our-resources/\">Visit AASFW's page about Our Resources</a> for more information.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S023_AAFSW_Website_title.png",
+                "caption": "AAFSW Newsletter 'Global Link' - April - 1999",
+                "credit": "Photo credit: AAFSW",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S023_AAFSW_Website_title.png"
+            },
+            "start_date": {
+                "month": "04",
+                "year": "1999"
+            },
+            "end_date": {
+                "month": "01",
+                "year": "2000"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/1999/aafsw-launches-a-website/\">AAFSW Launches a Website</a>",
+                "text": "<p>AAFSW built its own website, as technology transformed the way we all do business. Take a moment to visit <a href=\"https://www.aafsw.or/\" target=\"_blank\">www.aafsw.org</a> to learn more about AAFSW’s services and resources.  If you’re not a member, we hope you’ll be inspired to join this great community.</p>"
             }
         }
     ]
