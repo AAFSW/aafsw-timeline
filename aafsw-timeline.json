@@ -480,6 +480,26 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/1999/aafsw-launches-a-website/\">AAFSW Launches a Website</a>",
                 "text": "<p>AAFSW built its own website, as technology transformed the way we all do business. Take a moment to visit <a href=\"https://www.aafsw.or/\" target=\"_blank\">www.aafsw.org</a> to learn more about AAFSW’s services and resources.  If you’re not a member, we hope you’ll be inspired to join this great community.</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S024_title_name_change.png",
+                "caption": "AAFSW Newsletter 'Global Link' - January 2000",
+                "credit": "Photo credit: AAFSW",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S024_title_name_change.png"
+            },
+            "start_date": {
+                "month": "01",
+                "year": "2000"
+            },
+            "end_date": {
+                "month": "01",
+                "year": "2000"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/2000/aafsw-changes-its-name/\">AAFSW Changes Its Name</a>",
+                "text": "<p>After many years of discussion, AAFSW made the momentous decision to keep the same acronym but change the meaning to <strong>Associates of the American Foreign Service Worldwide</strong>.  AAFSW had been concerned about the name for some time, since ‘Foreign Service Women’ did not describe all of our members or constituencies. AAFSW had been asked again and again, ‘When are you going to change your name?’ The board was hopeful that this development would be one of many helping AAFSW more effectively serve our members in the year 2000 and beyond!</p>"
+            }
         }
     ]
 }
