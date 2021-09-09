@@ -606,6 +606,26 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/2015/25th-anniversary-of-aafsws-secretary-of-state-award-for-outstanding-volunteerism-abroad/\">25th Anniversary of AAFSW’s Secretary of State Award for Outstanding Volunteerism Abroad</a>",
                 "text": "<p>For the 25th anniversary of the Secretary of State Award for Outstanding Volunteerism Abroad, AAFSW’s SOSA Chair (and a former SOSA winner) Lara Center and her committee obtained a grant from the Una Chapman Cox Foundation to create a series of videos. Lara arranged interviews with former SOSA winners; with Anne Kauzlarich, who was AAFSW President when the award was created; and with former Secretary of State James Baker and Susan Baker, who originally suggested the award’s creation and have remained active contributors to SOSA. Lara and AAFSW President Patricia Linderman interviewed James and Susan Baker in Houston and successfully produced three videos promoting and explaining the award. Secretary of State John Kerry also provided recorded remarks for the 2015 ceremony in honor of the anniversary.</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S030_title.png",
+                "caption": "2FS Hub launches",
+                "credit": "Photo credit: AAFSW",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S030_title.png"
+            },
+            "start_date": {
+                "month": "05",
+                "year": "2016"
+            },
+            "end_date": {
+                "month": "08",
+                "year": "2016"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/2016/aafsws-fs-hub-launches/\">AAFSW's FS Hub Luanches</a>",
+                "text": "<p>After a FLO survey revealed a critical lack of awareness in the Foreign Service community of the online resources available to them, a group of AAFSW volunteers obtained a grant from the Una Chapman Cox Foundation to create a comprehensive portal for all Foreign Service community support resources, including official, non-profit and independent sources as well as social media groups. The result was the Foreign Service Hub, <a href=\"https://fshub.org/\">FSHub.org</a>, a searchable site that makes Foreign Service resources easy to access.</p>"
+            }
         }
     ]
 }
