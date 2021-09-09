@@ -610,7 +610,7 @@
         {
             "media": {
                 "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S030_title.png",
-                "caption": "2FS Hub launches",
+                "caption": "FS Hub launches",
                 "credit": "Photo credit: AAFSW",
                 "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S030_title.png"
             },
@@ -625,6 +625,26 @@
             "text": {
                 "headline": "<a href=\"https://timeline.aafsw.org/2016/aafsws-fs-hub-launches/\">AAFSW's FS Hub Luanches</a>",
                 "text": "<p>After a FLO survey revealed a critical lack of awareness in the Foreign Service community of the online resources available to them, a group of AAFSW volunteers obtained a grant from the Una Chapman Cox Foundation to create a comprehensive portal for all Foreign Service community support resources, including official, non-profit and independent sources as well as social media groups. The result was the Foreign Service Hub, <a href=\"https://fshub.org/\">FSHub.org</a>, a searchable site that makes Foreign Service resources easy to access.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S030_title.png",
+                "caption": "Twice Exceptional Merit Scholarship",
+                "credit": "Photo credit: AAFSW",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/S030_title.png"
+            },
+            "start_date": {
+                "month": "02",
+                "year": "2018"
+            },
+            "end_date": {
+                "month": "02",
+                "year": "2018"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/2018/twice-exceptional-scholarships/\">Twice Exceptional Scholarships</a>",
+                "text": "<p>AAFSW’s ‘Twice Exceptional’ Merit Scholarship was specifically designed to reward academic excellence among Foreign Service students with disabilities. Since 2018, AAFSW has received many nominations and has granted two Twice Exceptional merit scholarships each year to eligible high school seniors, gap year students, and college freshmen and sophomores with a current Individualized Education Program (IEP) or equivalent program such as a 504. The scholarship was created in response to growing concerns among Foreign Service Families about the Special Needs Education Allowance (SNEA) and other benefits for students with disabilities in the Foreign Service community.  To learn more about AAFSW’s Twice Exceptional Scholarships, please visit <a href=\"https://www.aafsw.org/aafsws-scholarships-2/\">https://www.aafsw.org/aafsws-scholarships-2/</a></p>"
             }
         }
     ]
