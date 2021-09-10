@@ -651,7 +651,7 @@
             "media": {
                 "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/Audience_pages_employees-1536x511-1.jpg",
                 "caption": "U.S. Department of State, Harry S. Truman Building",
-                "credit": "Photo credit: www.state.gov/wp-content/uploads/2020/07/Audience_pages_employees-1536x511.jpg",
+                "credit": "Photo credit: <a href=\"https://www.state.gov/wp-content/uploads/2020/07/Audience_pages_employees-1536x511.jpg/\">state.gov</a>",
                 "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/Audience_pages_employees-300x100-1.jpg"
             },
             "start_date": {
