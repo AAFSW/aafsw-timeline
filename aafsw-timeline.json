@@ -668,6 +668,26 @@
                 "headline": "<a href=\"https://timeline.aafsw.org/2018/employee-organization/\">Employee Organization</a>",
                 "text": "<p>In February 2018, AAFSW representatives met with the Chief Labor Management Negotiator at the Department of State Bureau of Human Resources / Office of Policy Coordination and formally applied for AAFSW to be considered a recognized Employee Organization by the Department of State (under 3 FAM 5300 and 5 CFR 251). The AAFSW Board approved the needed changes to meet all requirements, and the application was approved on April 11, 2018. Recognition as an Employee Organization allows AAFSW to continue using State Department facilities and to work closely with HR/PC to coordinate its cultural 'soft diplomacy' events, the annual AAFSW Art and BookFair, and the AAFSW Book Store.</p>"
             }
+        },
+        {
+            "media": {
+                "url": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/AAFSW-blue-bgrd_002.jpg",
+                "caption": "AAFSW",
+                "credit": "Photo credit: AAFSW",
+                "thumbnail": "http://timeline.aafsw.org/wp-content/uploads/sites/8/2021/09/AAFSW-blue-bgrd_002.jpg"
+            },
+            "start_date": {
+                "month": "9",
+                "year": "2021"
+            },
+            "end_date": {
+                "month": "09",
+                "year": "2021"
+            },
+            "text": {
+                "headline": "<a href=\"https://timeline.aafsw.org/2021/2021-and-beyond/\">2021 and Beyond</a>",
+                "text": "<p>As June Byrne, President said in 1960 \"We’ll go slowly.  We’re not going to set the world on fire or work miracles overnight.  Our job this year is to establish a simple, solid base on which to work, well organized, but simply organized and very flexible.\"</p>"
+            }
         }
     ]
 }
